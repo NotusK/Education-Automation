@@ -1,0 +1,7 @@
+D:\Games ZIP\Mount and Blade Mod\Modules\EducationAutomation\bin\Win64_Shipping_Client\EducationAutomation\EducationAutomation\obj\Debug\EducationAutomation.csproj.AssemblyReference.cache
+D:\Games ZIP\Mount and Blade Mod\Modules\EducationAutomation\bin\Win64_Shipping_Client\EducationAutomation\EducationAutomation\obj\Debug\EducationAutomation.csproj.CoreCompileInputs.cache
+D:\Games ZIP\Mount and Blade Mod\Modules\EducationAutomation\bin\Win64_Shipping_Client\EducationAutomation\EducationAutomation\obj\Debug\EducationAutomation.csproj.CopyComplete
+D:\Games ZIP\Mount and Blade Mod\Modules\EducationAutomation\bin\Win64_Shipping_Client\EducationAutomation\EducationAutomation\obj\Debug\EducationAutomation.dll
+D:\Games ZIP\Mount and Blade Mod\Modules\EducationAutomation\bin\Win64_Shipping_Client\EducationAutomation\EducationAutomation\obj\Debug\EducationAutomation.pdb
+D:\Games ZIP\Mount and Blade Mod\Modules\EducationAutomation\bin\Win64_Shipping_Client\EducationAutomation.dll
+D:\Games ZIP\Mount and Blade Mod\Modules\EducationAutomation\bin\Win64_Shipping_Client\EducationAutomation.pdb
